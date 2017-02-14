@@ -23,15 +23,16 @@
     padding: 20px;
     margin: 0 auto;
   }
+
 .about {
-  background: orange;
+  background-color: orange;
 }
 
 .portfolio {
-  background: red;
+  background-color: red;
 }
 
 .contact {
-  background: purple;
+  background-color: purple;
 }
 </style>
