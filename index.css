@@ -33,14 +33,17 @@
 
   #page1 {
     background-image: url(" ");
+    height: 1000px;
   }
 
   #page2 {
     background-color: red;
+    height: 1000px;
   }
 
   #page3 {
     background-color: purple;
+    height: 1000px;
   }
 
 </style>
