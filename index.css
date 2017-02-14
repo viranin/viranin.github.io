@@ -1,4 +1,7 @@
 <style>
+  a {
+  color: white;
+  }
   h1 {
     color: blue;
     font-size: 16px;
@@ -19,8 +22,5 @@
     max-width: 500px;
     padding: 20px;
     margin: 0 auto;
-  }
-  a {
-    color: white;
   }
 </style>
