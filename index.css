@@ -23,4 +23,15 @@
     padding: 20px;
     margin: 0 auto;
   }
+.about {
+  background: orange;
+}
+
+.portfolio {
+  background: red;
+}
+
+.contact {
+  background: purple;
+}
 </style>
