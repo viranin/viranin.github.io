@@ -25,14 +25,14 @@
   }
 
 .page1 {
-  background-image: url("http://static.asiawebdirect.com/m/bangkok/portals/bali-indonesia-com/shared/teasersL/magazine/bali-must-see-temples/teaserMultiLarge/image/bali-must-see-temples-L.jpg");
+  background-image: url(" ");
 }
 
-.portfolio {
+.page2 {
   background-color: red;
 }
 
-.contact {
+.page3 {
   background-color: purple;
 }
 </style>
