@@ -23,17 +23,24 @@
     padding: 20px;
     margin: 0 auto;
   }
-
-.page1 {
-  background-image: url(" ");
+  div {
+  height: 200px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
   }
 
-.page2 {
-  background-color: red;
+  .page1 {
+    background-image: url(" ");
   }
 
-.page3 {
-  background-color: purple;
+  .page2 {
+    background-color: red;
   }
-  
+
+  .page3 {
+    background-color: purple;
+  }
+
 </style>
