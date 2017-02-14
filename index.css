@@ -3,9 +3,11 @@
   color: white;
   }
   h1 {
-    color: purple;
-    font-size: 16px;
-    font-family: helvetica;
+    font-family: 'Londrina Shadow', cursive;
+    text-align: center;
+    font-size: 75px;
+    color: #aaaaaa;
+    margin: 60px 0 0 0;
   }
   ul li {
     background-color: black;
